@@ -1,18 +1,27 @@
 **numbers = [1,2,3]
 
 #square_array(numbers)
+<<<<<<< HEAD
 return
 
+=======
+>>>>>>> f1af86e40773d8192af34158077bbe258611b367
 **{1,4,9]
 
 **new_numbers = [9,10,16,25]
 
 square_array(new_numbers)
+<<<<<<< HEAD
 return
 
 **[81,100,256,625]
 end
 
+=======
+**[81,100,256,625]
+end
+
+>>>>>>> f1af86e40773d8192af34158077bbe258611b367
 
 
 
